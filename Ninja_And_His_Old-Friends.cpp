@@ -27,7 +27,7 @@ after all the handshakes?
 //Code for Coding Ninja Platform
 
 #include <bits/stdc++.h> 
-int shakeHands(vector<int> &friends ,int n, int k)
+int shakeHands(vector<int> &friends ,int n, int k) //data will be already included/provided by the Coding Ninja
 {
     // Write your code here.
     for(int i=0; i<friends.size(); i++){
