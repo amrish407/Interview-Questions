@@ -1,4 +1,4 @@
-//Problems are available on Coding Ninja Platform
+//Problem is available on Coding Ninja Platform
 
 /*
 PROBLEM STATEMENT
